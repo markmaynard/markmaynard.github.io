@@ -1,0 +1,48 @@
+- layout: left
+  company: Lexmark International
+  link: lexmark.com
+  job_title: Senior Software Engineer
+  dates: May 2012 - Present
+  quote: >
+   OEM Printer Manufacturer
+  description: | # this will include new lines to allow paragraphs
+    Cloud Solutions Developer creating complex restful applications using a microservices architecture.
+
+    Leveraging Spring Boot, Java, and Kotlin along with AWS services and technologies I was a member of the team that successfuly rewrote our marquee cloud solution in 1 year.
+- layout: left
+  company: Adecco Tecnhical
+  link: www.adeccousa.com
+  job_title: Firmware Engineer
+  dates:  June 2010 - May 2012
+  quote: >
+   Staffing company
+  description: | # this will include new lines to allow paragraphs
+    Developed graphical user interface for touch screen printers using AcionScript(ECMAScript) and C++
+- layout: left
+  company: Center for Visualization and Virtual Environments
+  link: vis.uky.edu
+  job_title: Research Associate
+  dates: May 2007 - May 2010
+  quote: >
+   Colaborative Research Center for Computer Science
+  description: | # this will include new lines to allow paragraphs
+    Developed A.V.A. Ambient Virtual Asistant (think early Alexa)
+    Developed tools aroung A.V.A. in C++, and Python/OpenGl
+- layout: left
+  company: University of Kentucky
+  link: uky.edu
+  job_title: Research Assistant
+  dates: January 2007 - May 2007
+  quote: >
+   Largest Public University in Kentucky
+  description: | # this will include new lines to allow paragraphs
+    Research work updating national wildfire prediction software in Fortran 77
+- layout: left
+  company: University of Kentucky
+  link: uky.edu
+  job_title: Teaching Assitant
+  dates: Spring and Fall term 2006
+  quote: >
+   Largest Public University in Kentucky
+  description: | # this will include new lines to allow paragraphs
+    Lectured CS 221 for two sessions anf ran lab for CS 215 in MS Visual C++
