@@ -24,7 +24,7 @@ linkedin_username: charles-maynard-302a728
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mark and I'm a Senior Software Engineer.
+  Hi, my name is Mark and I'm a Senior Software Engineer.
 
   I am most skilled in: <mark>Programming</mark> and <mark>Architecture</mark>
 
