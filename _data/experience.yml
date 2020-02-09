@@ -8,14 +8,16 @@
   description: | # this will include new lines to allow paragraphs
     Cloud Solutions Developer creating complex restful applications using a microservices architecture.
 
-    Leveraging Spring Boot, Java, and Kotlin along with AWS services and technologies I was a member of the team that successfuly rewrote our marquee cloud solution in 1 year.
+    Leveraging Spring Boot, Java, and Kotlin along with AWS services and K8S I was a member of the team that successfuly rewrote our marquee cloud solution in 1 year.
+
+    Optimizing and enhancing existing Cloud Analytics platfrom to enhave scalability, reliability and performance.
 - layout: left
   company: Adecco Tecnhical
   link: www.adeccousa.com
   job_title: Firmware Engineer
   dates:  June 2010 - May 2012
   quote: >
-   Staffing company
+   Technoloty staffing company
   description: | # this will include new lines to allow paragraphs
     Developed graphical user interface for touch screen printers using AcionScript(ECMAScript) and C++
 - layout: left
