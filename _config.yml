@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Mark Maynard
 title: Senior Software Engineer
 email: cmaynard@gmail.com
-website: github.com/markmaynard/markmaynard.github.io
+website: github.com/markmaynard
 
 # Social links
 twitter_username: markmaynarddev
@@ -24,7 +24,7 @@ linkedin_username: charles-maynard-302a728
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mark and I'm a Senior Senior Software Developer.
+  Hi, my name's Mark and I'm a Senior Software Engineer.
 
   I am most skilled in: <mark>Programming</mark> and <mark>Architecture</mark>
 
@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering and architecture some of my other interests and hobbies are:
-   - Playing Guitar and Ukelele
+   - Playing Guitar and Ukulele
    - Watching Sports
    - Playing with the kids
 

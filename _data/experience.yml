@@ -26,8 +26,8 @@
   quote: >
    Colaborative Research Center for Computer Science
   description: | # this will include new lines to allow paragraphs
-    Developed A.V.A. Ambient Virtual Asistant (think early Alexa)
-    Developed tools aroung A.V.A. in C++, and Python/OpenGl
+    Developed A.V.A. Ambient Virtual Assistant (think early Alexa)
+    Developed tools around A.V.A. in C++, and Python/OpenGl
 - layout: left
   company: University of Kentucky
   link: uky.edu
@@ -45,4 +45,5 @@
   quote: >
    Largest Public University in Kentucky
   description: | # this will include new lines to allow paragraphs
-    Lectured CS 221 for two sessions anf ran lab for CS 215 in MS Visual C++
+    Lectured CS 221 for two sessions
+    Ran labs for CS 215 in MS Visual C++
