@@ -29,6 +29,7 @@
    Colaborative Research Center for Computer Science
   description: | # this will include new lines to allow paragraphs
     Developed A.V.A. Ambient Virtual Assistant (think early Alexa)
+    
     Developed tools around A.V.A. in C++, and Python/OpenGl
 - layout: left
   company: University of Kentucky
@@ -48,4 +49,5 @@
    Largest Public University in Kentucky
   description: | # this will include new lines to allow paragraphs
     Lectured CS 221 for two sessions
+    
     Ran labs for CS 215 in MS Visual C++
