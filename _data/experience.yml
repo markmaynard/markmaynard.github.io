@@ -10,14 +10,14 @@
 
     Leveraging Spring Boot, Java, and Kotlin along with AWS services and K8S I was a member of the team that successfuly rewrote our marquee cloud solution in 1 year.
 
-    Optimizing and enhancing existing Cloud Analytics platfrom to enhave scalability, reliability and performance.
+    Optimizing and enhancing existing Cloud Analytics platform to enhance scalability, reliability and performance.
 - layout: left
   company: Adecco Tecnhical
   link: www.adeccousa.com
   job_title: Firmware Engineer
   dates:  June 2010 - May 2012
   quote: >
-   Technoloty staffing company
+   Technology staffing company
   description: | # this will include new lines to allow paragraphs
     Developed graphical user interface for touch screen printers using AcionScript(ECMAScript) and C++
 - layout: left
@@ -29,6 +29,7 @@
    Colaborative Research Center for Computer Science
   description: | # this will include new lines to allow paragraphs
     Developed A.V.A. Ambient Virtual Assistant (think early Alexa)
+    
     Developed tools around A.V.A. in C++, and Python/OpenGl
 - layout: left
   company: University of Kentucky
@@ -48,4 +49,5 @@
    Largest Public University in Kentucky
   description: | # this will include new lines to allow paragraphs
     Lectured CS 221 for two sessions
+    
     Ran labs for CS 215 in MS Visual C++
